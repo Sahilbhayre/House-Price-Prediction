@@ -148,19 +148,19 @@ House-Price-Prediction/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/house-price-prediction-from-scratch.git
+git clone https://github.com/Sahilbhayre/House-Price-Prediction.git
 ```
 
 Move into the project folder
 
 ```bash
-cd house-price-prediction-from-scratch
+cd House-Price-Prediction
 ```
 
 Install the required packages
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 Launch Jupyter Notebook
@@ -207,8 +207,8 @@ Through this project, I gained practical experience in:
 **Sahil Bhayre**
 
 - GitHub: https://github.com/SahilBhayre
-- Portfolio: *(Add your portfolio link)*
-- LinkedIn: *(Add your LinkedIn profile link)*
+- Portfolio: https://sahilbhayre.github.io/My-Portfolio/
+- LinkedIn: https://www.linkedin.com/in/sahil-bhayre-b2029b238/
 
 ---
 
