@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-This project implements **Multiple Linear Regression from scratch using NumPy** to predict house prices based on multiple housing features. Instead of relying on machine learning libraries such as **scikit-learn**, every component of the algorithm—including prediction, cost function, gradient computation, and gradient descent—has been implemented manually to understand the mathematical foundations of Linear Regression.
+This project implements **Multiple Linear Regression from scratch** to predict house prices based on multiple housing features. Instead of relying on machine learning libraries such as **scikit-learn**, every component of the algorithm—including prediction, cost function, gradient computation, and gradient descent—has been implemented manually to understand the mathematical foundations of Linear Regression.
 
 This project follows the complete Machine Learning workflow from data analysis to model evaluation.
 
