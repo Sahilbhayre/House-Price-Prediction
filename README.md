@@ -134,11 +134,12 @@ House-Price-Prediction/
 ├── multiple_regression.ipynb
 ├── README.md
 ├── requirements.txt
-└── images/
+└── graphs/
     ├── cost_vs_iterations.png
     ├── actual_vs_predicted.png
     ├── residual_plot.png
     └── prediction_error_distribution.png
+    
 ```
 
 ---
