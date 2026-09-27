@@ -2,18 +2,14 @@
 
 A Machine Learning project that predicts house prices using the **Ames Housing Dataset**.
 
-## 📌 Overview
+## 📌 Features
 
-This project follows an end-to-end Machine Learning workflow:
-
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
+- Data Cleaning & EDA
 - Feature Engineering
 - Data Preprocessing
-- Model Training
-- Model Evaluation
+- Multiple Regression Models
 - Hyperparameter Tuning
-- Model Saving
+- Model Evaluation
 - Streamlit Deployment
 
 ## 🤖 Models Used
@@ -32,45 +28,36 @@ This project follows an end-to-end Machine Learning workflow:
 |---|---:|
 | MAE | 13,457.81 |
 | RMSE | 22,977.65 |
-| R² Score | 0.9341 |
+| R² | 0.9341 |
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- XGBoost
-- Joblib
-- Streamlit
+Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • XGBoost • Joblib • Streamlit
 
 ## 📁 Project Structure
 
 ```text
-house-price-prediction/
+House-Price-Prediction/
 │
-├── data/
-├── notebooks/
-├── models/
-├── images/
+├── AmesHousing.csv
+├── ames_housing.ipynb
 ├── app.py
+├── feature_columns.pkl
+├── house_price_model.pkl
 ├── requirements.txt
+├── runtime.txt
 ├── .gitignore
 └── README.md
-▶️ Run Locally
+🚀 Run Locally
 pip install -r requirements.txt
 streamlit run app.py
-🚀 Deployment
+🌐 Live Demo
 
-The model is deployed using Streamlit.
+Open the Streamlit App
 
 👨‍💻 Author
 
 Sahil Bhayre
-
 B.Tech CSE (AIML)
-Interested in Machine Learning & AI Engineering.
 
-⭐ If you found this project useful, consider giving it a star!
+Interested in Machine Learning, Deep Learning & AI Engineering.
