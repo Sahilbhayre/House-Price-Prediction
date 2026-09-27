@@ -56,8 +56,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-##🌐 Live Demo
+## 🌐 Live Demo
+```text
 https://house-price-prediction-sahil-bhayre.streamlit.app/
+```
 
 ##👨‍💻 Author
 
