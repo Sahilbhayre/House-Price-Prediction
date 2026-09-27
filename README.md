@@ -61,7 +61,7 @@ streamlit run app.py
 - https://house-price-prediction-sahil-bhayre.streamlit.app/
 
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 - Sahil Bhayre
 - B.Tech CSE (AIML)
