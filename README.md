@@ -57,13 +57,13 @@ streamlit run app.py
 ```
 
 ## 🌐 Live Demo
-```text
-https://house-price-prediction-sahil-bhayre.streamlit.app/
-```
+
+- https://house-price-prediction-sahil-bhayre.streamlit.app/
+
 
 ##👨‍💻 Author
 
-Sahil Bhayre
-B.Tech CSE (AIML)
+- Sahil Bhayre
+- B.Tech CSE (AIML)
 
-Interested in Machine Learning, Deep Learning & AI Engineering.
+- Interested in Machine Learning, Deep Learning & AI Engineering.
