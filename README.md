@@ -48,14 +48,18 @@ House-Price-Prediction/
 ├── runtime.txt
 ├── .gitignore
 └── README.md
-🚀 Run Locally
+```
+
+## 🚀 Run Locally
+```text
 pip install -r requirements.txt
 streamlit run app.py
-🌐 Live Demo
+```
 
-Open the Streamlit App
+##🌐 Live Demo
+https://house-price-prediction-sahil-bhayre.streamlit.app/
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Sahil Bhayre
 B.Tech CSE (AIML)
